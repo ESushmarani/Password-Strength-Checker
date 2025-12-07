@@ -35,11 +35,7 @@ Everything is inside one file for easy understanding.
 
 ## 🖥️ Live Demo
 
-👉 *(Add your GitHub Pages link here)*
-
-Example:  
-`https://yourusername.github.io/password-strength-checker/`
-
+👉 ' https://esushmarani.github.io/Password-Strength-Checker/ '
 ---
 
 ## 🛠️ Technologies Used
